@@ -1,0 +1,6 @@
+{
+  "name": "SafetyFem",
+  "description": "Plataforma integrada para prevenção, monitoramento e resposta a situações de violência contra a mulher, com botão de emergência, rastreamento em tempo real, monitoramento de rotas e painel estatístico.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
